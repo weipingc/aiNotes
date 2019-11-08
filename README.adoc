@@ -1,0 +1,25 @@
+# aiNotes
+
+R-CNN, Fast R-CNN +
+https://github.com/KaimingHe[Kaiming He 何恺明]
+
+https://github.com/rbgirshick[GitHub]
+https://www.rossgirshick.info/
+----
+Ross Girshick (rbg)
+Research Scientist
+Facebook AI Research (FAIR)
+r...@gmail.com
+arXiv / Google scholar / cv
+----
+
+
+https://www.momenta.ai/en/about[Momenta] +
+----
+Shaoqing Ren
+R&D Director at Momenta
+CVPR 2016 Best Paper Award recipient.
+Faster-RCNN & ResNet Author.
+Winner of ImageNet 2015 and MS COCO Challenge 2015.
+PhD in Computer Vision from University of Science and Technology of China and Microsoft Research.
+----
